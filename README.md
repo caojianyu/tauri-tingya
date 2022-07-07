@@ -1,5 +1,7 @@
 # hello
 
+![image](/sample-picture/index.png)
+
 ## Project setup
 ```
 npm install
@@ -7,18 +9,18 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm run tauri dev
+```
+or
+```
+cargo tauri dev
 ```
 
 ### Compiles and minifies for production
 ```
-npm run build
+npm run tauri build
 ```
-
-### Lints and fixes files
+or
 ```
-npm run lint
+cargo tauri build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
