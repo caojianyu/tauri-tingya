@@ -2,7 +2,12 @@
 
 ![image](/sample-picture/index.png)
 
-## Project setup
+## tauri-tingya-api Project setup
+```
+cargo run
+```
+
+## tauri-tingya Project setup
 ```
 npm install
 ```
